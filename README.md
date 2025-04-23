@@ -14,6 +14,7 @@
 ![Docker][DOCKER_BADGE]
 
 **English version** : [Click here](#ingles) .
+Repositório original do Fork: [DigitalInnovationOne - Board](https://github.com/digitalinnovationone/board)
 
 ## Descrição do projeto
 
@@ -112,7 +113,7 @@ Para configurar o projeto, é necessário definir as seguintes variáveis de amb
 
 Para executar o projeto, é necessário executar o comando `gradle bootRun` na raiz do projeto.
 
-## 😎 Autor
+## 😎 Minhas Redes Sociais:
 
  **Marcio Costa**
 
@@ -144,6 +145,8 @@ Dê uma ⭐️ se este projeto te ajudou!
 ![Docker][DOCKER_BADGE]
 
 **Versão em Português** : [Click Aqui](#portugues)
+Original repository of the Fork: [DigitalInnovationOne - Board](https://github.com/digitalinnovationone/board)
+
 
 ## Project Description
 
@@ -243,7 +246,7 @@ To configure the project, you need to set the following environment variables:
 
 To run the project, execute the `gradle bootRun` command at the project root.
 
-## 😎 Author
+## 😎 My social networks:
 
 **Marcio Costa**
 
