@@ -14,7 +14,8 @@
 ![Docker][DOCKER_BADGE]
 
 **English version** : [Click here](#ingles) .
-Repositório original do Fork: [DigitalInnovationOne - Board](https://github.com/digitalinnovationone/board)
+
+Repositório original do Fork: [DigitalInnovationOne - Board](https://github.com/digitalinnovationone/board) .
 
 ## Descrição do projeto
 
@@ -144,8 +145,9 @@ Dê uma ⭐️ se este projeto te ajudou!
 ![Gradle][GRADLE_BADGE]
 ![Docker][DOCKER_BADGE]
 
-**Versão em Português** : [Click Aqui](#portugues)
-Original repository of the Fork: [DigitalInnovationOne - Board](https://github.com/digitalinnovationone/board)
+**Versão em Português** : [Click Aqui](#portugues) . 
+
+Original repository of the Fork: [DigitalInnovationOne - Board](https://github.com/digitalinnovationone/board) .
 
 
 ## Project Description
